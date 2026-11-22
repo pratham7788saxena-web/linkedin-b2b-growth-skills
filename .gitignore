@@ -1,0 +1,11 @@
+# Your private workspace: prospect names, roles and notes. Never commit it.
+linkedin-workspace/
+*.private.*
+
+# Build output
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*.xlsx
