@@ -1,0 +1,2 @@
+# One term per line. validate_skills.py fails if any SKILL.md contains these.
+# Add your own employer, client and colleague names before publishing a fork.

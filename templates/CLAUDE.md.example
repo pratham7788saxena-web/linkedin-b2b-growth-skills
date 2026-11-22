@@ -1,0 +1,12 @@
+# CLAUDE.md (copy into the root of your marketing project folder)
+
+## LinkedIn workspace
+- Workspace folder: `linkedin-workspace/`
+- Before any LinkedIn task, read `linkedin-workspace/company-profile.md` and the active campaign in `linkedin-workspace/campaign-log.md`.
+- Before drafting content, check `linkedin-workspace/content-log.md` so no hook or example repeats.
+- Prospect data lives only in `linkedin-workspace/lead-tracker.xlsx`. Never paste it into shared docs.
+
+## How I like to work
+- I am [role]. I know marketing well; explain technical topics simply first.
+- I send every LinkedIn message and comment myself. Never automate LinkedIn actions.
+- End every task with a "Record this" block and update the workspace files after I confirm.
