@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-b2b-growth-skills",
+  "owner": {
+    "name": "Pratham Saxena",
+    "url": "https://github.com/pratham7788saxena-web"
+  },
+  "metadata": {
+    "description": "LinkedIn B2B growth skills for Claude Code and Claude.ai",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-b2b-growth",
+      "source": "./",
+      "description": "Evidence-based LinkedIn B2B growth system: research, content, outreach, tracking and weekly review.",
+      "version": "1.0.0",
+      "category": "marketing"
+    }
+  ]
+}
