@@ -4,8 +4,7 @@
 
 Works in **Claude Code** (as a plugin) and **Claude.ai / Cowork** (as uploaded skills).
 
-[![Validate skills](https://github.com/YOUR-USERNAME/linkedin-b2b-growth-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/YOUR-USERNAME/linkedin-b2b-growth-skills/actions/workflows/validate.yml)
-![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+[![Validate skills](https://img.shields.io/github/actions/workflow/status/pratham7788saxena-web/linkedin-b2b-growth-skills/validate.yml?branch=main&label=validate%20skills)](https://github.com/pratham7788saxena-web/linkedin-b2b-growth-skills/actions/workflows/validate.yml)
 
 ---
 
