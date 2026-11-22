@@ -1,0 +1,21 @@
+name: Validate skills
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r scripts/requirements.txt
+      - name: Shared files in sync
+        run: python scripts/sync_shared.py --check
+      - name: Skill structure and frontmatter
+        run: python scripts/validate_skills.py
+      - name: Tracker template builds
+        run: python scripts/build_tracker_template.py
