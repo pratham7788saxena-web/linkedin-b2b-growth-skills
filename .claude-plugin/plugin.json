@@ -1,0 +1,13 @@
+{
+  "name": "linkedin-b2b-growth",
+  "version": "1.0.0",
+  "description": "16 Claude skills that run an evidence-based LinkedIn B2B growth system: learn the topic, research accounts and decision-makers, qualify leads, write posts, comments and outreach, plan campaigns, track a pipeline and review weekly results. No invented facts, no automation of LinkedIn actions.",
+  "author": {
+    "name": "Pratham Saxena",
+    "url": "https://github.com/pratham7788saxena-web"
+  },
+  "homepage": "https://github.com/pratham7788saxena-web/linkedin-b2b-growth-skills",
+  "repository": "https://github.com/pratham7788saxena-web/linkedin-b2b-growth-skills",
+  "license": "MIT",
+  "keywords": ["linkedin", "b2b", "marketing", "lead-generation", "content", "account-based-marketing", "claude-skills"]
+}
